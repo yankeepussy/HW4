@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+table,
+th,
+tr,
+td {
+  width: 800px;
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 5px;
+  box-align: center;
+  margin: auto;
+  text-align: center;
+}
+img {
+  width: 150px;
+}
+.number {
+  width: 10px;
+}
+td {
+  border-left: 1000px;
+}
